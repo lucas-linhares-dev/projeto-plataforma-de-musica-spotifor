@@ -1,0 +1,47 @@
+
+main{
+    width: 80%;
+    margin: auto;
+}
+main div{
+    display: inline-block;
+    width: 17%;
+    height: 12em;
+    background-color: rgb(185, 185, 185);
+    margin-top:2%;
+    margin-right:2%;
+    border-radius: 5px;
+    text-align: center;
+}
+.div-doja{
+    background-image: url(../images/doja\ cat\ -\ like\ that.jpg);
+    background-size: cover;
+}
+.div-drake{
+    background-image: url(../images/drake.jpg);
+    background-size: cover;
+}
+.div-rihanna{
+    background-image: url(../images/rihanna.png);
+    background-size: cover;
+}
+.div-theweek{
+    background-image: url(../images/the-week.jpg);
+    background-size: cover;
+}
+.div-foo{
+    background-image: url(../images/foo.jpg);
+    background-size: cover;
+}
+main div p{
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    height: 5px;
+    padding-top:100%;
+}
+h2{
+    font-size: 33px;
+}
+main section{
+    margin-bottom:7%;
+}
